@@ -13,7 +13,7 @@ const initialStudents = [
   { id:'SV009', name:'Võ Ngọc Linh', className:'CNTT-K15B', status:'Vắng' },
   { id:'SV010', name:'Bùi Đức Long', className:'CNTT-K15B', status:'Có mặt' },
   { id:'SV011', name:'Nguyễn Hải Yến', className:'DTVT-K15', status:'Có mặt' },
-  { id:'SV012', name:'Lê Thành Đạt', className:'DTVT-K15', status:'Có mặt' },
+  { id:'SV012', name   :'Lê Thành Đạt', className:'DTVT-K15', status:'Có mặt' },
   { id:'SV013', name:'Trần Mỹ Duyên', className:'DTVT-K15', status:'Đi trễ' },
   { id:'SV014', name:'Phạm Gia Huy', className:'DTVT-K15', status:'Có mặt' },
   { id:'SV015', name:'Hoàng Thu Trang', className:'DTVT-K15', status:'Vắng' }
